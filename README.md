@@ -1,15 +1,15 @@
-# __Convolutional-Neural-Network__
-This is a convolutional neural network trained with more than 10,000 dogs and cat images respectively. 
-I have built this network three layers deep, giving an accuracy of 87%.
+# __Tri a Bulle__
+Le tri à bulles ou tri par propagation1 est un algorithme de tri. Il consiste à comparer répétitivement les éléments consécutifs d'un tableau, et à les permuter lorsqu'ils sont mal triés. Il doit son nom au fait qu'il déplace rapidement les plus grands éléments en fin de tableau, comme des bulles d'air qui remonteraient rapidement à la surface d'un liquide.
 
-Libraries i used to build the above neural network are :
-- KERAS (Using Tensorflow Backend)
-- Tensorflow (For structuring the ANN)
-- numpy (For numerical computations)
-The above neural net is 4 layers deep and i even uploaded the weight values of my training session. I got 98% of training accuracy 
-and 87% of testing accuracy.
+Le tri à bulles est souvent enseigné en tant qu'exemple algorithmique, car son principe est simple. Mais c'est le plus lent des algorithmes de tri communément enseignés, et il n'est donc guère utilisé en pratique.
 
-The dataset is in my drive: 
-  __https://drive.google.com/drive/folders/1XaFM8BJFligrqeQdE-_5Id0V_SubJAZe?usp=sharing__
+# Fonctionnement visuel
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/54/Sorting_bubblesort_anim.gif?uselang=fr)
 
-# CNN
+# Initialisation des valeurs
+![Alt text](img/1.png?raw=true "init")
+
+# Résultat
+![Alt text](img/2.png?raw=true "Resultat")
+
+# auteur : bm7 
