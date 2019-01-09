@@ -9,6 +9,6 @@ Libraries i used to build the above neural network are :
 The above neural net is 4 layers deep and i even uploaded the weight values of my training session. I got 98% of training accuracy 
 and 87% of testing accuracy.
 
-The dataset is in my drive: __https://drive.google.com/drive/folders/1XaFM8BJFligrqeQdE-_5Id0V_SubJAZe?usp=sharing__
+The dataset is in my drive: [here](https://drive.google.com/drive/folders/1XaFM8BJFligrqeQdE-_5Id0V_SubJAZe?usp=sharing)
 
 # CNN
